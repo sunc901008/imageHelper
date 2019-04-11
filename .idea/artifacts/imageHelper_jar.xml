@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="imageHelper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/imageHelper_jar</output-path>
+    <root id="archive" name="imageHelper.jar">
+      <element id="module-output" name="imageHelper_main" />
+    </root>
+  </artifact>
+</component>
